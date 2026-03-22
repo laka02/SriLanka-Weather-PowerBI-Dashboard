@@ -100,4 +100,4 @@ The dashboard transforms raw climate data into actionable visual insights for ag
 ## Author
 [Lakshika Viduranga]
 
-[![www.linkedin.com/in/lakshika-viduranga](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/lakshika-viduranga)
